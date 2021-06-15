@@ -1,11 +1,11 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the Relevant Research workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+# Transcending Mental Models
+Materials for the Relevant Research workshop: **Transcending Mental Models**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/transcending-mental-models/) with GitHub Pages   
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
+- Workshop content created by Brian Southwell
 - Content edited for online use by << ENTER NAME(S) HERE >> 
 - Online pages created by << ENTER NAME(S) HERE >> 
 
