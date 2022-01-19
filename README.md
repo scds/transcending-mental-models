@@ -1,7 +1,7 @@
 # Transcending Mental Models
 Materials for the Relevant Research workshop: **Transcending Mental Models**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/transcending-mental-models/) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/transcending-mental-models/) with GitHub Pages.
 
 
 Contributions by the following individuals: 
