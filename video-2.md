@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video 2 - Translating Mental Models
+title: Video 2 - Translating Your Research for the Public Sphere
 nav_order: 3
 ---
 
